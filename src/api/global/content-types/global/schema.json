@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "siteName": {
+    "ITCArgentina": {
       "type": "string",
       "required": true
     },
@@ -20,7 +20,11 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images", "files", "videos"]
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
     },
     "siteDescription": {
       "type": "text",
